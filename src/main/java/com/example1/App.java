@@ -10,7 +10,7 @@ import java.util.Iterator;
 import java.util.List;
 import java.util.Scanner;
 /**
-This is main class
+This is main class of app
 */
 public class App {
 
