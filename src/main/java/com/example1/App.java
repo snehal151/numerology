@@ -1,4 +1,4 @@
-
+	
 package com.example1;
 
 import com.example1.info.PersonalNumber;
@@ -9,7 +9,9 @@ import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.List;
 import java.util.Scanner;
-
+/**
+This is main class
+*/
 public class App {
 
     private static Logger logger = LoggerFactory.getLogger(App.class);
