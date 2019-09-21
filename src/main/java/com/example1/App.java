@@ -9,9 +9,7 @@ import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.List;
 import java.util.Scanner;
-/**
-This is main class of app also called as Entry point of the application 
-*/
+
 public class App {
 
     private static Logger logger = LoggerFactory.getLogger(App.class);
